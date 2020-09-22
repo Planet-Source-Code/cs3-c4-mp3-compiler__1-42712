@@ -1,0 +1,2 @@
+C4 MP3 Compiler MP3 file to an Self Playing MP3 Executable file, wich means no need for an MP3 Playing SW like Winamp / WMP etc., based on the popular MP32EXE Sw.
+The Compiled Exectable self plays itself if it has the extension 'EXE' and it IT ALSO PLAYS WITHOUT ANY FLAW in Winamp/WMP if the same compiled file is again renamed as an 'MP3'.
